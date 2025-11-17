@@ -1,0 +1,25 @@
+# Environment
+venv/
+__pycache__/
+*.pyc
+
+# Models
+models/
+vosk-model-en-us-0.22/
+vosk-model-small-en-us-0.15/
+*.pkl
+ml_models.pkl
+
+# Logs
+logs/
+*.csv
+
+# Node
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

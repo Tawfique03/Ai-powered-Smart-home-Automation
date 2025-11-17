@@ -1,0 +1,16 @@
+flask
+flask-socketio
+pyserial
+numpy
+pandas
+scikit-learn
+joblib
+vosk
+webrtcvad
+sounddevice
+pyttsx3
+flask-cors
+jinja2
+requests
+matplotlib    
+rapidfuzz
