@@ -514,7 +514,7 @@ def publish_rms(level):
 def update_state(new):
     """
     This is called by the CONTROLLER to update the dashboard's state
-    and broadcast it to all clients.
+    and broadcast it. 
     """
     global state
     state.update(new)
